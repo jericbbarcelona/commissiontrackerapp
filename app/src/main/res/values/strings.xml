@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Commission Tracker</string>
+    <string name="lbl_customer_profile">Customer Profile</string>
+    <string name="lbl_system_details_and_note">System Details &amp; Note</string>
+    <string name="lbl_payment_information">Payment Information</string>
+    <string name="btn_lbl_view_details">View Details</string>
+    <string name="lbl_customer_payment">Customer Payment</string>
+    <string name="lbl_payment_method">Payment Method</string>
+    <string name="lbl_contract_full_price">Contract Full Price</string>
+    <string name="lbl_cash_receiving">Cash Receiving</string>
+    <string name="error_occurred_try_again_message">An error occurred. Please try again.</string>
+    <string name="btn_lbl_retry">Retry</string>
+</resources>
